@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="supplier-api" />
+        <module name="supplier-commodity" />
+        <module name="supplier-commons" />
+        <module name="supplier-order" />
+        <module name="supplier-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="supplier" target="1.8" />
+      <module name="supplier-api" target="1.8" />
+      <module name="supplier-commodity" target="1.8" />
+      <module name="supplier-commons" target="1.8" />
+      <module name="supplier-order" target="1.8" />
+      <module name="supplier-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

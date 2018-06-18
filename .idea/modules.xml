@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/supplier.iml" filepath="$PROJECT_DIR$/supplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../supplier-api/supplier-api.iml" filepath="$PROJECT_DIR$/../supplier-api/supplier-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../supplier-commodity/supplier-commodity.iml" filepath="$PROJECT_DIR$/../supplier-commodity/supplier-commodity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../supplier-commons/supplier-commons.iml" filepath="$PROJECT_DIR$/../supplier-commons/supplier-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../supplier-order/supplier-order.iml" filepath="$PROJECT_DIR$/../supplier-order/supplier-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../supplier-user/supplier-user.iml" filepath="$PROJECT_DIR$/../supplier-user/supplier-user.iml" />
+    </modules>
+  </component>
+</project>
